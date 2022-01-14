@@ -1,4 +1,3 @@
-[
     {
     "_id": "61dfe02ce8b96ff8b3c17edc",
     "index": 0,
@@ -36,4 +35,3 @@
     "greeting": "Hello, Magdalena Moore! You have 9 unread messages.",
     "favoriteFruit": "apple"
   }
-]
