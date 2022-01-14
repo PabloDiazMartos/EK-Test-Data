@@ -1,5 +1,4 @@
 [
-  '{{repeat(10, 10)}}',
     {
     "_id": "61dfe02ce8b96ff8b3c17edc",
     "index": 0,
