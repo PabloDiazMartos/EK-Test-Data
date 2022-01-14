@@ -1,0 +1,40 @@
+[
+  '{{repeat(10, 10)}}',
+    {
+    "_id": "61dfe02ce8b96ff8b3c17edc",
+    "index": 0,
+    "guid": "b2db6ba8-6e8c-4d09-bd6f-2412a65ac80e",
+    "isActive": true,
+    "balance": "$3,948.88",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "blue",
+    "name": "Magdalena Moore",
+    "gender": "female",
+    "company": "EXOZENT",
+    "email": "magdalenamoore@exozent.com",
+    "phone": "+1 (905) 466-3066",
+    "address": "322 Ainslie Street, Macdona, Maine, 8820",
+    "about": "Mollit fugiat aliqua labore sint Lorem ipsum proident excepteur sit commodo exercitation. Aliquip elit quis cillum commodo elit veniam deserunt consectetur consectetur aliqua adipisicing deserunt do. Officia consequat cillum commodo veniam commodo minim irure. Culpa eiusmod sint aute deserunt do id enim consectetur dolore et sunt non eiusmod cupidatat.\r\n",
+    "registered": "2018-08-07T05:13:27 -02:00",
+    "latitude": -81.871048,
+    "longitude": 36.979432,
+    "tags": [
+      "aute",
+      "ullamco",
+      "aliquip",
+      "non",
+      "veniam",
+      "aliquip",
+      "id"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mcclure Love"
+      }
+    ],
+    "greeting": "Hello, Magdalena Moore! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  }
+]
